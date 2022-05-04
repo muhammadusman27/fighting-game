@@ -1,0 +1,21 @@
+Project Setup                           @done 28-04-2022
+Create Player and Enemy                 @done 30-04-2022 8:00 PM
+Move Characters with Event Listeners    @done 01-05-2022
+Attacks  @done 02-05-2022
+Health Bar Interface                    @done 02-05-2022
+Game Timers and Game Over               @done 02-05-2022
+
+Sprites and Animation:
+Background Sprite                       @done 02-05-2022
+Shop Sprite with Animation              @done 03-05-2022
+    Idle                                @done 03-05-2022
+    Run                                 @done 03-05-2022
+    Jump                                
+    Attack
+Player Sprite (Samuri Mac)              @done 04-05-2022
+Enemy Sprite (Kenji)                    @done 04-05-2022
+React to Sprite Attacks                 @done 04-05-2022
+Receive Hit Animation                   @done 04-05-2022
+Death Animation                         @done 04-05-2022
+Interface Design and Animation          @done 04-05-2022
+Pushing Live                            @done 04-05-2022
