@@ -8,7 +8,7 @@
 ## 2 player game
 
 ### Player 1 - Samurai Mack
-!(Samurai Mack)[./img/samuraiMack/plain.png]
+!(Samurai Mack)[/img/samuraiMack/plain.png]
 
 #### Player 1 Control keys
 
@@ -20,7 +20,7 @@
 ```
 
 ### Player 2 - Kenji
-!(Kenji)[./img/kenji/plain.png]
+!(Kenji)[/img/kenji/plain.png]
 
 #### Player 2 Control keys
 ```
